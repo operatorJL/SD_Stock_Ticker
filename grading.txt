@@ -1,0 +1,8 @@
+Total [100]: 100
+
+Program works [20]:
+Test quality [20]
+Code coverage [10]:
+Code quality [20]:
+Design quality [20]:
+Overall quality [10]:

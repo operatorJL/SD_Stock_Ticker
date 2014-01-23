@@ -1,0 +1,4 @@
+MSFT, 232
+AAPL, 233
+GOOG, 123
+invld, 12

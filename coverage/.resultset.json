@@ -1,0 +1,33 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/OperatorJL/Documents/Fall 2013/cosc4353/gutierrez_loucks/Assign2/src/stocks.rb": [
+        1,
+        1,
+        1,
+        3,
+        null,
+        null,
+        1,
+        5,
+        null,
+        null,
+        1,
+        4,
+        null,
+        2,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1389380008
+  }
+}
